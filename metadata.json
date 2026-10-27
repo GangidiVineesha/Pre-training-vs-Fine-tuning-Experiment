@@ -1,0 +1,6 @@
+{
+  "name": "NeuroForge: Pre-training vs Fine-tuning Experiment Studio",
+  "description": "Interactive Generative AI workbench for evaluating small models before and after adaptation on task-specific datasets, featuring side-by-side inference, empirical performance metrics, and academic report generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
